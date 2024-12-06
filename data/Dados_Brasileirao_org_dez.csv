@@ -79,7 +79,7 @@ ano_campeonato;data;rodada;estadio;arbitro;publico;publico_max;time_mandante;tim
 2016;29/08/2016;22;Estádio Cícero Pompeu de Toledo;Franscisco Carlos do Nascimento;7836;67428;São Paulo;Coritiba FC;;;12;14;;;;;0;0;0;0;2;2;Nao Tem;Empate;0;1;10;10;0;1;10;10;0;1;10;10;12;13
 2016;01/10/2016;28;Estádio Cícero Pompeu de Toledo;Sandro Ricci;29813;67428;São Paulo;Flamengo;;;12;2;;;;;0;0;0;0;2;2;Nao Tem;Empate;0;1;10;10;0;1;10;10;0;1;10;10;12;13
 2016;13/10/2016;30;Estádio Cícero Pompeu de Toledo;Anderson Daronco;29314;67428;São Paulo;Santos FC;;;13;4;;;;;0;1;0;0;2;3;Nao Tem;Empate;0;1;10;10;0;1;10;10;0;1;10;10;12;13
-2016;11/12/2016;38;Arena Condá;Rodrigo D'Alonso Ferreira;;22600;Chapecoense;Atlético-MG;;;9;4;23700000;20300000;26.6;27.4;0;0;0;0;2;3;Nao Tem;Empate;0;1;10;10;0;1;10;10;0;1;10;10;12;13
+2016;11/12/2016;38;Arena Condá;Rodrigo D'Alonso Ferreira;22600;22600;Chapecoense;Atlético-MG;;;9;4;23700000;20300000;26.6;27.4;0;0;0;0;2;3;Nao Tem;Empate;0;1;10;10;0;1;10;10;0;1;10;10;12;13
 2017;15/06/2017;7;Estádio Major Antônio Couto Pereira;Wagner Reway;19534;37182;Coritiba FC;EC Bahia;;;3;8;;;;;0;0;0;0;2;2;Nao Tem;Empate;0;1;10;10;0;1;10;10;0;1;10;10;12;13
 2017;25/06/2017;10;Arena Fonte Nova;Igor Junior Benevenuto;21929;55000;EC Bahia;Flamengo;;;15;6;;;;;0;1;0;0;2;2;Nao Tem;Empate;0;1;10;10;0;1;10;10;0;1;10;10;12;13
 2017;02/07/2017;11;Estádio Manoel Barradas;Raphael Claus;10741;35632;EC Vitória;EC Bahia;;;18;17;;;;;0;0;0;0;2;2;Nao Tem;Empate;0;1;10;10;0;1;10;10;0;1;10;10;12;13
@@ -6301,7 +6301,7 @@ ano_campeonato;data;rodada;estadio;arbitro;publico;publico_max;time_mandante;tim
 2024;18/07/2024;17;MorumBIS; Gustavo Ervino Bauermann;53168;72039;São Paulo;Grêmio;Luis Zubeldía;Renato Gaúcho;4;18;3050;3390;29.0;28.9;1;0;1;0;2;2;Mandante;Mandante_Vencedor;2;1;4;3;2;1;4;3;2;1;4;3;8;6
 2024;18/07/2024;17;Estádio Olímpico Nilton Santos; Anderson Daronco;39570;46931;Botafogo;Palmeiras;Artur Jorge;Abel Ferreira;1;2;3575;11510;30.6;27.7;1;0;0;0;3;3;Mandante;Mandante_Vencedor;2;1;4;3;2;1;4;3;2;1;4;3;8;6
 2024;18/07/2024;17;Estádio Governador Plácido Castelo; Rafael Rodrigo Klein;24813;60326;Fortaleza;EC Vitória;Juan Pablo Vojvoda;Thiago Carpini;7;16;1575;1250;30.5;27.5;3;1;2;0;2;1;Mandante;Mandante_Vencedor;6;5;12;15;6;5;12;15;6;5;12;15;20;22
-2024;20/07/2024;18;Estádio Nacional de Brasília Mané Garrincha; Maguielson Lima Barbosa;60127;78838;Internacional;Flamengo;Tite;Cláudio Tencati;10;3;11040;600;28.5;30.3;;;0;1;2;3;Mandante;Mandante_Vencedor;0;1;0;3;0;1;0;3;0;1;0;3;2;6
+2024;20/07/2024;18;Estádio Nacional de Brasília Mané Garrincha; Maguielson Lima Barbosa;60127;78838;Internacional;Flamengo;Tite;Cláudio Tencati;10;3;11040;600;28.5;30.3;2;0;0;1;2;3;Mandante;Mandante_Vencedor;0;1;0;3;0;1;0;3;0;1;0;3;2;6
 2024;20/07/2024;18;Estádio Olímpico Nilton Santos; Flavio Rodrigues de Souza;31344;46931;Flamengo;Criciúma EC;Artur Jorge;Roger Machado;3;14;3525;3405;28.5;28.5;2;1;1;0;3;2;Mandante;Mandante_Vencedor;4;3;8;9;4;3;8;9;4;3;8;9;14;14
 2024;21/07/2024;18;Allianz Parque; Davi de Oliveira Lacerda;40465;43713;Botafogo;Internacional;Abel Ferreira;Fernando Seabra;1;11;7800;3590;29.2;27.4;1;0;1;0;3;2;Mandante;Mandante_Vencedor;2;1;4;3;2;1;4;3;2;1;4;3;8;6
 2024;21/07/2024;18;Estádio Francisco Stédile; Savio Pereira Sampaio;25248;30540;Palmeiras;Cruzeiro;Renato Gaúcho;Thiago Carpini;2;7;3800;1145;30.6;26.7;2;0;0;0;3;2;Mandante;Mandante_Vencedor;4;3;8;9;4;3;8;9;4;3;8;9;14;14
@@ -6313,7 +6313,7 @@ ano_campeonato;data;rodada;estadio;arbitro;publico;publico_max;time_mandante;tim
 2024;22/07/2024;18;Arena Pantanal; Anderson Daronco;13231;42968;Juventude;São Paulo;Petit;Mano Menezes;13;5;1570;5945;28.4;31.8;0;0;0;0;2;2;Mandante;Mandante_Vencedor;0;1;0;3;0;1;0;3;0;1;0;3;2;6
 2024;25/07/2024;3;Estádio Heriberto Hülse; Jonathan Benkenstein Pinheiro;13625;19225;Criciúma EC;Fortaleza;Cláudio Tencati;Juan Pablo Vojvoda;16;8;580;1335;31.9;31.0;1;1;1;0;2;2;Mandante;Mandante_Vencedor;2;1;4;3;2;1;4;3;2;1;4;3;8;6
 2024;25/07/2024;19;Estádio Governador Magalhães Pinto; Maguielson Lima Barbosa;46603;61927;Cuiabá-MT;Fluminense;Fernando Seabra;Jair Ventura;15;19;3460;960;27.7;28.9;0;1;1;0;1;1;Mandante;Mandante_Vencedor;0;1;0;3;0;1;0;3;0;1;0;3;2;6
-2024;25/07/2024;19;MorumBIS; Felipe Fernandes;53244;72039;Athletico-PR;Atlético-MG;Luis Zubeldía;Artur Jorge;12;8;2985;3495;29.4;29.6;;;1;2;2;2;Mandante;Mandante_Vencedor;0;1;0;3;0;1;0;3;0;1;0;3;2;6
+2024;25/07/2024;19;MorumBIS; Felipe Fernandes;53244;72039;Athletico-PR;Atlético-MG;Luis Zubeldía;Artur Jorge;12;8;2985;3495;29.4;29.6;2;0;1;2;2;2;Mandante;Mandante_Vencedor;0;1;0;3;0;1;0;3;0;1;0;3;2;6
 2024;25/07/2024;19;Estádio Manoel Barradas; Raphael Claus;30688;;Cruzeiro;Juventude;Thiago Carpini;Tite;4;14;1188;11870;27.4;28.3;2;0;0;1;2;2;Mandante;Mandante_Vencedor;4;3;8;9;4;3;8;9;4;3;8;9;14;14
 2024;25/07/2024;19;Estádio Jornalista Mário Filho; Wilton Sampaio;51375;82238;São Paulo;Botafogo;Mano Menezes;Abel Ferreira;6;1;5945;6560;31.8;28.8;2;2;0;0;2;3;Mandante;Mandante_Vencedor;4;3;8;9;4;3;8;9;4;3;8;9;14;14
 2024;25/07/2024;19;Estádio Antonio Accioly; Luciano da Silva Miranda Filho;5777;13000;EC Vitória;Flamengo;Vagner Mancini;Rogério Ceni;19;2;1110;3025;26.3;29.9;1;2;0;0;1;3;Mandante;Mandante_Vencedor;2;1;4;3;2;1;4;3;2;1;4;3;8;6
